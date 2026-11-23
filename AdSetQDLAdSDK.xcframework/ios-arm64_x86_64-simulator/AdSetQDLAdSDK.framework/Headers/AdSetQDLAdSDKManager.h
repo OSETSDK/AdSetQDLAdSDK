@@ -4,8 +4,8 @@
 //
 //  Created by qusy on 2023/12/29.
 //
-//  1.9.4
-//  19446.261111
+//  1.9.5
+//  19551.261123
 
 #import <Foundation/Foundation.h>
 #import <AdSetQDLAdSDK/AdSetQDLAdSDKConfiguration.h>
